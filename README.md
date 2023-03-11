@@ -7,9 +7,7 @@ A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language
 
 ### Show some :heart: and star the repo.
 
-## [Video tutorial available here](https://youtu.be/94JmNb1IhX0)
-
-##[Github link](https://github.com/iampawan/ChatGPT-Flutter-AIChatBot)
+##[Github link](https://github.com/omarfahmy555/chat-GPT3-Flutter)
 
 ##  [Link for api](https://beta.openai.com/account/api-keys)
 
@@ -34,11 +32,6 @@ A Chatbot chat app built using the Flutter framework and OpenAI's GPT-3 language
 4. Run the app on an emulator or physical device
 
 The chatbot can be further customized to fit your use-case by modifying the code in the `main.dart` file and other files. The source code for the chatbot is available on GitHub.
-
-### Development by
-
-- OpenAI - https://openai.com
-- Flutter - https://flutter.dev/
 
 Please open an issues on the repository if you find any bugs or if you would like to contribute.
 
